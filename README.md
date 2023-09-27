@@ -17,6 +17,8 @@ To use this application and enable currency conversion functionality, follow the
 Cómo Utilizar Clona o descarga este repositorio en tu máquina local. Ejecuta la aplicación Java. Selecciona el tipo de conversión que deseas realizar (divisas, temperatura, longitud o masa). Sigue las instrucciones en pantalla para ingresar los valores y realizar la conversión.
 
 ![2023-09-27-15-07-40.gif](https://i.postimg.cc/jqzqwM67/2023-09-27-15-07-40.gif)
+
+
 Requisitos Java 8 o superior. Conexión a Internet para obtener tasas de cambio actualizadas.
 
 
