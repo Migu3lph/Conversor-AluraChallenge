@@ -14,10 +14,12 @@ To use this application and enable currency conversion functionality, follow the
 4. Selecciona el tipo de conversión que deseas realizar (divisas, temperatura, longitud o masa).
 
 ## Usage Example
-You can watch the matters for the most common currencies and convert different types of currencies.
-1. Select the source and target currencies from the dropdown menus.
-2. Enter the amount in the source currency.
-3. The application convert the value in real-time.
-4. You can swap the value of the combo box.
+Cómo Utilizar Clona o descarga este repositorio en tu máquina local. Ejecuta la aplicación Java. Selecciona el tipo de conversión que deseas realizar (divisas, temperatura, longitud o masa). Sigue las instrucciones en pantalla para ingresar los valores y realizar la conversión.
 
-![2023-09-27-15-07-40.gif](https://i.postimg.cc/jqzqwM67/2023-09-27-15-07-40.gif)](https://postimg.cc/5j2WDqR4)
+![2023-09-27-15-07-40.gif](https://i.postimg.cc/jqzqwM67/2023-09-27-15-07-40.gif)
+Requisitos Java 8 o superior. Conexión a Internet para obtener tasas de cambio actualizadas.
+
+
+Autor Miguel Triviño
+
+Conversor de Unidades Proyecto para Alura
